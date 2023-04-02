@@ -1,0 +1,28 @@
+baseURL = "https://sanantonio.notmet.net/"
+languageCode = "en-us"
+title = "Moving to San Antonio?"
+description = "Information for military members moving to San Antonio."
+theme = "hugo-geekdoc"
+
+pluralizeListTitles = false
+
+# Geekdoc required configuration
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+disablePathToLower = true
+
+# Needed for mermaid shortcodes
+[markup]
+    [markup.goldmark.renderer]
+        # Needed for mermaid shortcode
+        unsafe = true
+    [markup.tableOfContents]
+        startLevel = 1
+        endLevel = 9
+
+# Options
+[params]
+    geekdocLogo = "alamo.svg"
+    geekdocRepo = "https://github.com/kc0bfv/sanantonio.notmet.net"
+    geekdocEditPath = "edit/main/content/"
+    geekdocListUseTOC = true
