@@ -2,7 +2,8 @@ name: Build Page and Deploy
 on:
     push:
         branches:
-            - main-DISABLE
+            - main
+    workflow_dispatch:
 jobs:
     build-page-and-deploy:
         runs-on: ubuntu-latest
