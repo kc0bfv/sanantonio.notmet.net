@@ -48,7 +48,7 @@ I'm not terribly familiar with base housing on JBSA...  I've seen old-but-nice h
 
 People generally think well of the Lackland schools.
 
-Information is available at the (JBSA housing webite)[https://www.jbsa.mil/Resources/Housing/].
+Information is available at the [JBSA housing webite](https://www.jbsa.mil/Resources/Housing/).
 
 ## Dorms
 
@@ -56,4 +56,4 @@ I'm not at all familiar with the dorms where junior Enlisted members live.
 
 # Resources
 
-* (JBSA's Housing Site)[https://www.jbsa.mil/Resources/Housing/] - links to info about base housing
+* [JBSA's Housing Site](https://www.jbsa.mil/Resources/Housing/) - links to info about base housing

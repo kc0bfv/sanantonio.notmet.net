@@ -18,5 +18,5 @@ Joint Base San Antonio is comprised of several installations.
 
 # Resources
 
-* (JBSA.mil)[https://jbsa.mil]
-* (JBSA Twitter)[https://twitter.com/JBSA_Official] - closures are often announced here first
+* [JBSA.mil](https://www.jbsa.mil)
+* [JBSA Twitter](https://twitter.com/JBSA_Official) - closures are often announced here first
