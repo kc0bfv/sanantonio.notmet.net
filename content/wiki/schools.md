@@ -42,3 +42,7 @@ Both of these sites have a ton of information about school district options and 
 
 * [Great Schools District Ratings](https://www.greatschools.org/texas/san-antonio/#districts)
 * [We Go Public District Map](https://www.wegopublic.com/san-antonio-school-districts-map/)
+
+# Edits Wanted
+
+If you've got hands-on experience with the schools in town I welcome your edits to this page.  Use the edit button!

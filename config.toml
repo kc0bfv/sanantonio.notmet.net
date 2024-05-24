@@ -24,5 +24,8 @@ disablePathToLower = true
 [params]
     geekdocLogo = "alamo.svg"
     geekdocRepo = "https://github.com/kc0bfv/sanantonio.notmet.net"
-    geekdocEditPath = "edit/main/"
+    geekdocEditPath = "edit/main"
     geekdocListUseTOC = true
+    [params.geekdocContentLicense]
+        name = "CC BY-SA 4.0"
+        link = "https://creativecommons.org/licenses/by-sa/4.0/"
