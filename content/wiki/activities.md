@@ -13,24 +13,32 @@ draft: false
 
 # For Kids or Families
 
-* San Antonio Zoo
-* Botanical Garden
-* Japanese Tea Garden
-* Morgan's Wonderland
-* [The Missions](https://www.nps.gov/saan/index.htm) and [Mission Trail](https://www.sanantonio.gov/Mission-Trails/Mission-Trails-Historic-Sites/Missions)
-* The DoSeum
-* Witte Museum
-* Sea World
-* Six Flags
+* Downtown:
+    * [The Missions](https://www.nps.gov/saan/index.htm) and the [Mission Trail](https://www.sanantonio.gov/Mission-Trails/Mission-Trails-Historic-Sites/Missions)
+    * [The Alamo](https://www.thealamo.org/)
+* Just North of downtown, in or near Brackenridge park:
+    * [Japanese Tea Garden](https://www.sanantonio.gov/ParksAndRec/Parks-Facilities/)
+    * [San Antonio Zoo](https://sazoo.org/)
+    * [The DoSeum](https://www.thedoseum.org/)
+    * [Witte Museum](https://www.wittemuseum.org/)
+    * [Botanical Garden](https://www.sabot.org/)
+All-Parks-Facilities/Parks-Facilities-Details/artmid/14820/articleid/2912/japanese-tea-garden)
+* 10 min Northeast of downtown:
+    * [Morgan's Wonderland](https://morganswonderland.org/) - An "Ultra-Accessible" Theme Park
+* Northwest edge of San Antonio:
+    * [Six Flags](https://www.sixflags.com/fiestatexas)
+* West side:
+    * [Sea World](https://seaworld.com/san-antonio/)
+
 
 # Food, Drink, and Shopping Centers
 
-* The Pearl
+* [The Pearl](https://atpearl.com/weekend-market/)
 * Downtown Riverwalk
 * King William District
-* Blue Star Complex
-* UTSA Food Trucks
-* The Quarry
+* [Blue Star Complex](https://www.bluestarartscomplex.com/food-drink-places)
+* [UTSA Food Trucks](https://www.theblocksa.com/)
+* [The Quarry](https://www.quarrymarket.com/)
 * The Rim
 * Boerne's Downtown (Boerne is pronounced like "Bernie")
 * Gruene and New Braunfels Downtowns (Gruene is pronounced like "green")
